@@ -1,0 +1,2 @@
+SELECT Name, Symbol, Date, Marketcap FROM crypto.crypto_rate 
+WHERE Date > 2019;
